@@ -28,7 +28,7 @@ class SKToolbar: UIToolbar {
         self.browser = browser
         
         setupApperance()
-        setupToolbar()
+//        setupToolbar()
     }
     
     override func hitTest(_ point: CGPoint, with event: UIEvent?) -> UIView? {
